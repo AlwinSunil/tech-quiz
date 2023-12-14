@@ -1,0 +1,128 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+    "correct_answer": "1000",
+    "incorrect_answers": ["512", "1024", "500"],
+    "options": ["512", "1024", "500", "1000"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "In any programming language, what is the most common way to iterate through an array?",
+    "correct_answer": "&#039;For&#039; loops",
+    "incorrect_answers": [
+      "&#039;If&#039; Statements",
+      "&#039;Do-while&#039; loops",
+      "&#039;While&#039; loops"
+    ],
+    "options": [
+      "&#039;For&#039; loops",
+      "&#039;While&#039; loops",
+      "&#039;Do-while&#039; loops",
+      "&#039;If&#039; Statements"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+    "correct_answer": "HD Graphics 500",
+    "incorrect_answers": [
+      "HD Graphics 700 ",
+      "HD Graphics 600",
+      "HD Graphics 7000"
+    ],
+    "options": [
+      "HD Graphics 7000",
+      "HD Graphics 700 ",
+      "HD Graphics 600",
+      "HD Graphics 500"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "What language does Node.js use?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": ["Java", "Java Source", "Joomla Source Code"],
+    "options": ["Joomla Source Code", "Java Source", "Java", "JavaScript"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+    "correct_answer": "Objective-C",
+    "incorrect_answers": ["C#", "Ruby", "C++"],
+    "options": ["C#", "Ruby", "C++", "Objective-C"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+    "correct_answer": "Hexidecimal",
+    "incorrect_answers": ["Binary", "Duodecimal", "Octal"],
+    "options": ["Binary", "Duodecimal", "Hexidecimal", "Octal"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "correct_answer": ".svg",
+    "incorrect_answers": [".png", ".jpeg", ".gif"],
+    "options": [".gif", ".png", ".svg", ".jpeg"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+    "correct_answer": "Apple",
+    "incorrect_answers": ["Microsoft", "Atari", "Commodore"],
+    "options": ["Commodore", "Microsoft", "Apple", "Atari"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "HTML is what type of language?",
+    "correct_answer": "Markup Language",
+    "incorrect_answers": [
+      "Macro Language",
+      "Programming Language",
+      "Scripting Language"
+    ],
+    "options": [
+      "Macro Language",
+      "Programming Language",
+      "Scripting Language",
+      "Markup Language"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "In computing, what does LAN stand for?",
+    "correct_answer": "Local Area Network",
+    "incorrect_answers": [
+      "Long Antenna Node",
+      "Light Access Node",
+      "Land Address Navigation"
+    ],
+    "options": [
+      "Long Antenna Node",
+      "Light Access Node",
+      "Local Area Network",
+      "Land Address Navigation"
+    ]
+  }
+]

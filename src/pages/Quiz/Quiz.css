@@ -1,0 +1,16 @@
+.quiz {
+  display: flex;
+  margin: 1rem 2rem;
+  padding: 4rem 2rem;
+  height: 100%;
+  justify-content: center;
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--separator);
+}
+
+@media screen and (max-width: 600px) {
+  .quiz {
+    margin: 1.5rem;
+    padding: 3rem 1.5rem;
+  }
+}

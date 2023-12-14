@@ -1,0 +1,47 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+    "correct_answer": "center",
+    "incorrect_answers": ["static", "absolute", "relative"],
+    "options": ["center", "static", "absolute", "relative"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+    "correct_answer": "New Mexico",
+    "incorrect_answers": ["Washington", "Colorado", "Arizona"],
+    "options": ["Washington", "Colorado", "Arizona", "New Mexico"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+    "correct_answer": "Shamir",
+    "incorrect_answers": ["Secure", "Schottky", "Stable"],
+    "options": ["Secure", "Schottky", "Stable", "Shamir"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "What was the first commerically available computer processor?",
+    "correct_answer": "Intel 4004",
+    "incorrect_answers": ["Intel 486SX", "TMS 1000", "AMD AM386"],
+    "options": ["Intel 4004", "Intel 486SX", "TMS 1000", "AMD AM386"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+    "correct_answer": "Inkscape",
+    "incorrect_answers": ["Paint.NET", "GIMP", "Adobe Photoshop"],
+    "options": ["Paint.NET", "Inkscape", "GIMP", "Adobe Photoshop"]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "When Gmail first launched, how much storage did it provide for your email?",
+    "correct_answer": "1GB",
+    "incorrect_answers": ["512MB", "5GB", "Unlimited"],
+    "options": ["512MB", "5GB", "Unlimited", "1GB"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "What does the computer software acronym JVM stand for?",
+    "correct_answer": "Java Virtual Machine",
+    "incorrect_answers": [
+      "Java Vendor Machine",
+      "Java Visual Machine",
+      "Just Virtual Machine"
+    ],
+    "options": [
+      "Java Vendor Machine",
+      "Java Visual Machine",
+      "Java Virtual Machine",
+      "Just Virtual Machine"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "What is the domain name for the country Tuvalu?",
+    "correct_answer": ".tv",
+    "incorrect_answers": [".tu", ".tt", ".tl"],
+    "options": [".tl", ".tv", ".tt", ".tu"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "In computing, what does MIDI stand for?",
+    "correct_answer": "Musical Instrument Digital Interface",
+    "incorrect_answers": [
+      "Musical Interface of Digital Instruments",
+      "Modular Interface of Digital Instruments",
+      "Musical Instrument Data Interface"
+    ],
+    "options": [
+      "Musical Interface of Digital Instruments",
+      "Modular Interface of Digital Instruments",
+      "Musical Instrument Data Interface",
+      "Musical Instrument Digital Interface"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "How long is an IPv6 address?",
+    "correct_answer": "128 bits",
+    "incorrect_answers": ["32 bits", "64 bits", "128 bytes"],
+    "options": ["128 bytes", "32 bits", "128 bits", "64 bits"]
+  }
+]
