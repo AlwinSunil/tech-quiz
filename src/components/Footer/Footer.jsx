@@ -7,7 +7,7 @@ function Footer() {
 
   return (
     <footer>
-      <div className="footer-foodspot">
+      <div className="footer">
         <div className="footer-about">
           <div className="brand">
             <img className="logo" src="./icon.svg" alt="" />

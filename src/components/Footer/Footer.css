@@ -5,7 +5,7 @@ footer {
   background-color: var(--bg-secondary);
 }
 
-.footer-foodspot {
+.footer {
   display: flex;
   flex-direction: row;
   padding: 4rem 0;
@@ -60,7 +60,7 @@ footer {
     padding: 0 1rem;
   }
 
-  .footer-foodspot {
+  .footer {
     flex-direction: column;
     gap: 2rem;
     padding: 3rem 0;
